@@ -1,6 +1,6 @@
 # Inverse-pointwise-heat-source-location-problem-
 
-This repository includes the application of Accelerated Adaptive Nelder–Mead Simplex Method using Weighted Centroids (wANMS) on an inverse pointwise heat source location problem. To see the wANMS method follow the link:    
+This repository includes the application of Accelerated Adaptive Nelder–Mead Simplex Method using Weighted Centroids (wANMS) on an inverse pointwise heat source location problem. To see the wANMS method follow the link: https://github.com/kgunel/wANMS   
 
 Copyright (c) 2021, Korhan Gunel
 
